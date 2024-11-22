@@ -1,4 +1,5 @@
 # Financial Data Engineering Project
+Project 1 Notes can be found on my Notion: https://www.notion.so/Project-1-FinForensics-c00d0da1042b4f36ba9516137c680386?pvs=4
 
 ## Overview
 
